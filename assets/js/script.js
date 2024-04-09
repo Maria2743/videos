@@ -27,7 +27,7 @@ class Multimedia {
     }
 
     setInicio() {
-        return ()
+        return "Este método es para realizar un cambio en la URL del video."
     }
 }
 
